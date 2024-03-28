@@ -1,4 +1,5 @@
 # RBW-old
+:no_entry: [DEPRECATED]
 This bot is very poorly coded but works for the most part so just thought I would release it because either ways I'm coding a new one with better database handling and better everything basically
 
 **Just saying I'm not trying to fix any bugs that might exist so just dont request it.**
