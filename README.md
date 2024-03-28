@@ -14,3 +14,7 @@ daily and weekly leaderboards are broken (probably).
 make sure to =setinfo,=setchannel,=setrole everything there
 
 If you wanna use this... all i gotta say is good luck.
+
+OH And i almost forgot
+
+look throught the code for TODO s
